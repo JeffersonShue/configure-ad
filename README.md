@@ -1,6 +1,5 @@
 ![cloud2](https://github.com/user-attachments/assets/bfb02120-7283-49b3-850a-5f6497fbd5e9)
 <p align="center">
-![Image Alt]([https://github.com/JeffersonShue/configure-ad/blob/6fbed0da921b0e186abf87ddc1be4d85c168444a/VM.jpg])
  
 </p>
 

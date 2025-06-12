@@ -3,8 +3,8 @@
  
 </p>
 
-<h1>Creating a Windows and Linux Virtual Machine in the Cloud (Microsoft Azure)</h1>
-In this walkthrough, we will create a Windows and Linux virtual machine (VM) in Azure. This skill set will be vital and is a key component to all of the IT projects listed. <br />
+<h1>Creating a Windows (And Linux) Virtual Machine in the Cloud (Microsoft Azure)</h1>
+In this walkthrough, we will create a Windows virtual machine (VM) in Azure. This skill set will be vital and is a key component to all of the IT projects listed. The same process applies when creating a linux virtual machine <br />
 
 <h2>⚠️ Prerequisite</h2>
 

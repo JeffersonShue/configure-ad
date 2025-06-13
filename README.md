@@ -1,6 +1,8 @@
-![cloud2](https://github.com/user-attachments/assets/bfb02120-7283-49b3-850a-5f6497fbd5e9)
+![cloud2](https://github.com/user-attachments/assets/3a5c5567-549f-4146-9a0f-1911281f0d80)
 <p align="center">
- 
+
+
+
 </p>
 
 <h1>Creating a Windows (And Linux) Virtual Machine in the Cloud (Microsoft Azure)</h1>

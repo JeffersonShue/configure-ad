@@ -186,7 +186,7 @@ Select the same RG that we created earlier. Name the VM "linux-vm" and choose th
 <h2>Conclusion</h2>
 
 <p>
-This concludes our project. We sucessfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Unbutu in the Cloud. Now, we essentially have three machines in total to use how we want for our IT needs. </p>
+This concludes our project. We successfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Unbutu in the Cloud. Now, we essentially have three machines in total to use how we want for our IT needs. </p>
 <p> You can see the many benefits that companies gain from using Cloud Services and Cloud Service Providers (CSP) without using terribly expensive hardware.  
 </p>
 <br />
